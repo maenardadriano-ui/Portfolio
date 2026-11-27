@@ -7,14 +7,13 @@ Hi! My name is John Maenard Adriano. I am studying Gamification & Design at CIIT
 I chose the program Gamification & Design but specialize more to the Design aspect of my course. I'm not much of a tech wizard person but experiencing and seeing people's works is my best learning style as I learned this technique through my own art experience; from copying until perfection and with the help from my school I'll be able to accomplish my goals faster. Currently the skills I'm trying to develop is my time management and software skills. Lastly my career interest is to be a world builder or game designer for a video game.
 
 ## My Learning Journey & Works
-**Self Developments**
+**Self Developments Works**
 [Self-Development 1](assets/img/John_Maenard_Adriano_Self_Development_Plan_1.pdf)
-This are my method regarding to managing my time and stress to develop self control whenever something overwhelms me or if my mentality is getting worse. 
+This are my method regarding to managing my time and stress to develop self control whenever something overwhelms me or if my mentality is getting worse. Optimizing my productivity and maintain my responsibility by handling my deadlines better and a more healthy sleep schedule.
 ![Part 1](assets/img/Part_1.png)
 
-**Self Development 2**
 [Self-Development 2](assets/img/John_Maenard_Adriano_Self_Development_Plan_2.pdf)
-This methods are my ways when experiencing conflict towards work mates or collaboration with other party. 
+This methods are my ways when experiencing conflict towards work mates or collaboration with other party. Handling disagreements or interactions by being calm, collective, and letting opinions out than just being a "Yes" man. Able to achieve results by not panicking, maintaining calm to my presentations and not worry to much about my results or being a perfectionist.
 ![Part 2](assets/img/Part_2.png)
 
 ## Contacts
@@ -22,12 +21,25 @@ This methods are my ways when experiencing conflict towards work mates or collab
 [Links](https://linktr.ee/mythiosdesu)
 ![Calling Card](/assets/img/BC_front.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**My Tech Learning & Projects**
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Character Designs
+CORA NARA
+![Cadaver Character Sheet]([assets/img/Cora Nara Cadaver Sheet.png](https://github.com/maenardadriano-ui/Portfolio/blob/b5d0ba048fc739c4d275efb26f8da3db0714b639/assets/img/Cora%20Nara%20Cadaver%20Sheet.png)
+![Lady Frog Character Sheet](https://github.com/maenardadriano-ui/Portfolio/blob/b5d0ba048fc739c4d275efb26f8da3db0714b639/assets/img/Cora%20Nara%20Lady%20Frog%20Sheet.png)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+MIST ALTERNATE
+![REDACT](https://github.com/maenardadriano-ui/Portfolio/blob/b5d0ba048fc739c4d275efb26f8da3db0714b639/assets/img/Redact%20OC%20sheet.png)
+
+YALIA
+![Fina Proudmore](https://github.com/maenardadriano-ui/Portfolio/blob/b5d0ba048fc739c4d275efb26f8da3db0714b639/assets/img/Yalia%20Character%20Sheet.png)
+
+### Game Concept
+
+Game Idea is a Pixelated, Puzzle, Side scroller, Platformer, 4-Player, RPG game.. 4 Heroes co-op game, can play solo or add bots to play with Description: You can play the game Solo or with Friends. Game is with lots of platforms and a bit of puzzles. Heroes to choose are based on the difficulty; Paladin for Easy, Knight for Normal, Mage for Hard and Berserker for Insane. Controls: The game will have Jump, Dodge, Attack and Ability buttons. Hud: The Hud will be at top with the Characters profiles, Health for each character, Mana Meter for the characters Special Abilities, and Mana box to fill in items for Characters passive. Heroes consist of; Paladin- has the most health and most Mana. His ability is he can heal himself and specific character in need. His healing ability can also be used as projectile when allies are far away. Knight- has less than to the Paladin and half the mana. His ability is to throw thunderbolts at enemies and boosting his allies with Buffs randomly;
+
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
