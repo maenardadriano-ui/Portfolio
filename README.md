@@ -9,8 +9,10 @@ For me, I'm not really much interested to the technology behind the game, I'm mo
 I chose the program Gamification & Design but specialize more to the Design aspect of my course. I'm not much of a tech wizard person but experiencing and seeing people's works is my best learning style as I learned this technique through my own art experience; from copying until perfection and with the help from my school I'll be able to accomplish my goals faster. Currently the skills I'm trying to develop is my time management and software skills. Lastly my career interest is to be a world builder or game designer for a video game.
 
 ### My Learning Journey & Works
-[Calling Card](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/BC_front.jpg)
+##Calling Card
+![Calling Card](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/BC_front.jpg)
 
+##Self Developments
 [John Maenard Adriano_Self-Development Plan 1.pdf](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/John_Maenard_Adriano_Self_Development_Plan_1.pdf)
 
 [John Maenard Adriano_Self-Development Plan 2.pdf](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/John_Maenard_Adriano_Self_Development_Plan_2.pdf)
