@@ -10,7 +10,6 @@ I chose the program Gamification & Design but specialize more to the Design aspe
 
 ### My Learning Journey & Works
 **Calling Card
-[assets/img/BC_front.png](https://github.com/maenardadriano-ui/Portfolio/blob/83cf1cffb31d28cc0baadf57d41173cb9f1345d4/assets/img/BC_front.png)
 
 **Self-Development Plan
 (assets/John Maenard Adriano_Self-Development Plan 1.pdf)
