@@ -11,8 +11,8 @@ I chose the program Gamification & Design but specialize more to the Design aspe
 ### My Learning Journey & Works
 [Calling Card](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/BC_front.jpg)
 
-[John Maenard Adriano_Self-Development Plan 1.pdf](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/John_Maenard%20Adriano_Self_Development_Plan_1.pdf)
+[John Maenard Adriano_Self-Development Plan 1.pdf](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/John_Maenard_Adriano_Self_Development_Plan_1.pdf)
 
-[John Maenard Adriano_Self-Development Plan 2.pdf](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/John_Maenard%20Adriano_Self_Development_Plan_2.pdf)
+[John Maenard Adriano_Self-Development Plan 2.pdf](https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/John_Maenard_Adriano_Self_Development_Plan_2.pdf)
 
 ### My Goals & Career Direction
