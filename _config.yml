@@ -1,5 +1,5 @@
 title: John Maenard Adriano
-logo: !(https://github.com/maenardadriano-ui/Portfolio/blob/main/assets/img/headshot_circle.png)
+logo: assets/img/headshot_circle.png
 description: A new world starts with an Idea
 show_downloads: true
 theme: jekyll-theme-minimal
